@@ -14,7 +14,7 @@ import miniLogo from '../utils/miniLogo.svg'
       <div class="collapse navbar-collapse" id="navbarNav">
         <ul class="navbar-nav">
           <li class="nav-item active">
-            <a class="nav-link" href="#about"> About </a>
+            <a class="nav-link" href="#about">About Me <span class="sr-only">(current)</span></a>
           </li>
           <li class="nav-item">
             <a class="nav-link" href="#projects">Projects</a>
@@ -23,7 +23,7 @@ import miniLogo from '../utils/miniLogo.svg'
             <a class="nav-link" href="#contact">Contact</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link disabled" href="/">Job Request</a>
+            <a class="nav-link disabled" href="/">Resume</a>
           </li>
         </ul>
       </div>

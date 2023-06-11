@@ -1,0 +1,20 @@
+#about {
+    display: flex;
+    justify-content: space-between;
+    ;
+}
+
+#about img {
+    width: 400px;
+    height: 400px;
+}
+
+#about h3 {
+    font-style: italic;
+    border-right: 2px solid;
+    padding: 10px;
+}
+
+#about p {
+
+}

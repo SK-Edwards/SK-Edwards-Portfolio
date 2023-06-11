@@ -1,3 +1,17 @@
 footer {
     background-color: #db6930 ;
+    align-items: center;
+}
+
+
+#contactForm {
+ 
+    display: flex;
+    justify-content: space-around;
+}
+
+#submitBtn {
+    border: 2px solid;
+    color: whitesmoke;
+    background-color: #db6930;
 }

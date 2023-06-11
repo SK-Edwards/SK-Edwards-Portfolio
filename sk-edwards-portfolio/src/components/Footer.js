@@ -17,7 +17,23 @@ function Footer() {
             <i class="fab fa-gitHub"><a href="https://github.com/SK-Edwards">GitHub</a></i>
           </button>
         </div>
-    
+
+  <form id="contactForm" class="form-inline" action="/action_page.php">
+  <div class="form-group">
+    <label class="sr-only" for="name">Name: </label>
+    <input type="name" class="form-control" id="name" placeholder='Name' required ></input>
+  </div>
+  <div class="form-group">
+    <label class="sr-only" for="email"> Email: </label>
+    <input type="email" class="form-control" id="email" placeholder='Email' required ></input>
+  </div>
+  <div class="form-group">
+    <label class="sr-only" for="message"> Message: </label>
+    <input type="text" id="message" class='form-control' placeholder="Message" required ></input>
+  </div>
+  <button id='submitBtn' type="submit" class="btn btn-default"> Submit </button>
+</form>
+
     
         <div class="text-center  p-3" >
           © 2020 Copyright:
