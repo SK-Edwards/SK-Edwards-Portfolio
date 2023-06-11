@@ -5,7 +5,7 @@ import '../styles/footer.css'
 
 function Footer() {
     return (
-        <footer class="text-center text-lg-start" >
+        <footer id="contact" class="text-center text-lg-start" >
         <div class="container d-flex justify-content-center py-5">
          <button type="button" class="btn btn-primary btn-lg btn-floating mx-2" >
             <i class="fab fa-linkedIn"><a href="/" >LinkedIn</a></i>

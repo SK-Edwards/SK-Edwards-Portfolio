@@ -6,7 +6,7 @@ import Header
 import Project from './components/Project';
 
 import Footer from './components/Footer';
-
+import About from './components/About'
 function App() {
   return (
     <div className="App">
@@ -27,9 +27,9 @@ function App() {
 
       <Header />
       <Navigation />
+      <About/>
       <Project />
-      <Project />
-      <Project />
+      
       <Footer/>
 
 
