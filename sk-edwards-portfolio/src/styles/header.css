@@ -1,0 +1,23 @@
+.headerContainer{
+  margin: 0;
+  padding: 0;
+  background-color:#FF8300;
+    display: flex;
+    justify-content: space-between;
+
+}
+header h1 {
+  margin: 15px 0 0 27px;
+  padding: 0;
+  align-self: left;
+  
+}
+
+.brand-logo {
+  width: 100px;
+  height: 100px;
+  display: inline-block;
+  margin: 10px 10px 0 0;
+  float: right;
+}
+

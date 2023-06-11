@@ -1,0 +1,7 @@
+<svg version="1.1"
+             width="30" height="20"
+             xmlns="http://www.w3.org/2000/svg">
+        <polygon points="15 0 0 20 30 20 15 0"
+        stroke="black" fill="#FF8300" stroke-width="2"/>
+          <text x="15" y="15" font-size="8" text-anchor="middle" fill="black">SKE </text>
+        </svg>
