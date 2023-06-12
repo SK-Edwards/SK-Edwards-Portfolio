@@ -23,7 +23,7 @@ import miniLogo from '../utils/miniLogo.svg'
             <a class="nav-link" href="#contact">Contact</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link disabled" href="/">Resume</a>
+            <a class="nav-link disabled" href="#resume">Resume</a>
           </li>
         </ul>
       </div>
