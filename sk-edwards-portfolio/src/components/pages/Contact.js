@@ -3,8 +3,10 @@ import '../../styles/contact.css'
 
 export default function Contact() {
     return (
-<div>
+<div id="contactForm">
+        <h4> Contact Form :</h4>
         <form id="contact" class="form-inline" action="/action_page.php">
+          
         <div class="form-group">
           <label class="sr-only" for="name">Name: </label>
           <input type="name" class="form-control" id="name" placeholder='Name' required ></input>

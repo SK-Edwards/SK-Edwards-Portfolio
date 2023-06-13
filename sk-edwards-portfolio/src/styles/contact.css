@@ -1,7 +1,13 @@
-#contact{
- 
-    display: flex;
-    justify-content: space-around;
+#contactForm {
+    padding: 50px;
+    margin: 50px;
+    border: 5px solid;
+    
+
+}
+
+#contactForm p {
+    border-bottom: 5px solid;
 }
 
 #submitBtn {
