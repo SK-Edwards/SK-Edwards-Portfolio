@@ -1,7 +1,7 @@
 {
     "name": "sk-edwards-portfolio",
     "version": "0.1.0",
-    "homepage": "https://sk-edwards.github.io/sk-edwards-portfolio",
+    "homepage": "https://sk-edwards.github.io/SK-Edwards-Portfolio/",
     "private": true,
     "dependencies": {
         "@testing-library/jest-dom": "^5.16.5",
