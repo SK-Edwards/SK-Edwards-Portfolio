@@ -1,0 +1,11 @@
+#contact{
+ 
+    display: flex;
+    justify-content: space-around;
+}
+
+#submitBtn {
+    border: 2px solid;
+    color: whitesmoke;
+    background-color: #db6930;
+}

@@ -1,8 +1,8 @@
 import React from 'react';
-import '../styles/project.css';
-import project1 from '../utils/Screenshot 2023-06-10 222346.png';
-import project2 from '../utils/Screenshot 2023-06-10 222908.png'
-import project3 from '../utils/Screenshot 2023-06-10 225131.png'
+import '../../styles/project.css';
+import project1 from '../../utils/Screenshot 2023-06-10 222346.png';
+import project2 from '../../utils/Screenshot 2023-06-10 222908.png'
+import project3 from '../../utils/Screenshot 2023-06-10 225131.png'
 
 
   function Project() {
