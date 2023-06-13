@@ -11,7 +11,9 @@ Being a web developer means being part of a community.
 Given I needed a page for prospective employers and hopeful clients can learn a bit about me while also viewing samples of my work.
 A portfolio website seemed the appropriate solution.
 
-
+![*](https://github.com/SK-Edwards/SK-Edwards-Portfolio/blob/main/src/utils/Screenshot%202023-06-13%20002441.png)
+![*]( https://github.com/SK-Edwards/SK-Edwards-Portfolio/blob/main/src/utils/Screenshot%202023-06-13%20002504.png?raw=true)
+![*](https://github.com/SK-Edwards/SK-Edwards-Portfolio/blob/main/src/utils/Screenshot%202023-06-13%20002537.png?raw=true )
 
 
 
