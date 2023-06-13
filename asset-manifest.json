@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/sk-edwards-portfolio/static/css/main.7aa1fdcf.css",
-    "main.js": "/sk-edwards-portfolio/static/js/main.bc75ca9f.js",
-    "static/js/787.f5ec70aa.chunk.js": "/sk-edwards-portfolio/static/js/787.f5ec70aa.chunk.js",
-    "static/media/Screenshot 2023-06-11 143424.png": "/sk-edwards-portfolio/static/media/Screenshot 2023-06-11 143424.f00019b84873980eb95a.png",
-    "static/media/Screenshot 2023-06-10 222908.png": "/sk-edwards-portfolio/static/media/Screenshot 2023-06-10 222908.156c76eff5b375dd1b49.png",
-    "static/media/Screenshot 2023-06-10 222346.png": "/sk-edwards-portfolio/static/media/Screenshot 2023-06-10 222346.2b17589b7192f99a2c54.png",
-    "static/media/Screenshot 2023-06-10 225131.png": "/sk-edwards-portfolio/static/media/Screenshot 2023-06-10 225131.fc038d80079ace83dc1b.png",
-    "index.html": "/sk-edwards-portfolio/index.html",
-    "static/media/logo.svg": "/sk-edwards-portfolio/static/media/logo.40717ad041ce80b083153d256cdb09a6.svg",
-    "static/media/miniLogo.svg": "/sk-edwards-portfolio/static/media/miniLogo.c3eecc816357f3519466f5bcdfc0dfcc.svg",
-    "main.7aa1fdcf.css.map": "/sk-edwards-portfolio/static/css/main.7aa1fdcf.css.map",
-    "main.bc75ca9f.js.map": "/sk-edwards-portfolio/static/js/main.bc75ca9f.js.map",
-    "787.f5ec70aa.chunk.js.map": "/sk-edwards-portfolio/static/js/787.f5ec70aa.chunk.js.map"
+    "main.css": "/SK-Edwards-Portfolio/static/css/main.7aa1fdcf.css",
+    "main.js": "/SK-Edwards-Portfolio/static/js/main.b9c66e4d.js",
+    "static/js/787.f5ec70aa.chunk.js": "/SK-Edwards-Portfolio/static/js/787.f5ec70aa.chunk.js",
+    "static/media/Screenshot 2023-06-11 143424.png": "/SK-Edwards-Portfolio/static/media/Screenshot 2023-06-11 143424.f00019b84873980eb95a.png",
+    "static/media/Screenshot 2023-06-10 222908.png": "/SK-Edwards-Portfolio/static/media/Screenshot 2023-06-10 222908.156c76eff5b375dd1b49.png",
+    "static/media/Screenshot 2023-06-10 222346.png": "/SK-Edwards-Portfolio/static/media/Screenshot 2023-06-10 222346.2b17589b7192f99a2c54.png",
+    "static/media/Screenshot 2023-06-10 225131.png": "/SK-Edwards-Portfolio/static/media/Screenshot 2023-06-10 225131.fc038d80079ace83dc1b.png",
+    "index.html": "/SK-Edwards-Portfolio/index.html",
+    "static/media/logo.svg": "/SK-Edwards-Portfolio/static/media/logo.40717ad041ce80b083153d256cdb09a6.svg",
+    "static/media/miniLogo.svg": "/SK-Edwards-Portfolio/static/media/miniLogo.c3eecc816357f3519466f5bcdfc0dfcc.svg",
+    "main.7aa1fdcf.css.map": "/SK-Edwards-Portfolio/static/css/main.7aa1fdcf.css.map",
+    "main.b9c66e4d.js.map": "/SK-Edwards-Portfolio/static/js/main.b9c66e4d.js.map",
+    "787.f5ec70aa.chunk.js.map": "/SK-Edwards-Portfolio/static/js/787.f5ec70aa.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7aa1fdcf.css",
-    "static/js/main.bc75ca9f.js"
+    "static/js/main.b9c66e4d.js"
   ]
 }
