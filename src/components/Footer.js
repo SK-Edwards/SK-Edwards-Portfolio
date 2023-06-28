@@ -8,10 +8,10 @@ function Footer() {
         <footer  class="text-center text-lg-start" >
         <div class="container d-flex justify-content-center py-5">
          <button type="button" class="btn btn-primary btn-lg btn-floating mx-2" >
-            <i class="fab fa-linkedIn"><a href="/" >LinkedIn</a></i>
+            <i class="fab fa-linkedIn"><a href="https://www.linkedin.com/in/shamary-edwards-185351273/" >LinkedIn</a></i>
           </button>
           <button type="button" class="btn btn-primary btn-lg btn-floating mx-2" >
-            <i class="fab fa-instagram"><a href="/" >Instagram</a></i>
+            <i class="fab fa-instagram"><a href="https://www.instagram.com/shamta.clause/" >Instagram</a></i>
           </button>
           <button type="button" class="btn btn-primary btn-lg btn-floating mx-2" >
             <i class="fab fa-gitHub"><a href="https://github.com/SK-Edwards">GitHub</a></i>
