@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/SK-Edwards-Portfolio/static/css/main.bda2a275.css",
-    "main.js": "/SK-Edwards-Portfolio/static/js/main.9951ba87.js",
+    "main.js": "/SK-Edwards-Portfolio/static/js/main.261229cf.js",
     "static/js/787.f5ec70aa.chunk.js": "/SK-Edwards-Portfolio/static/js/787.f5ec70aa.chunk.js",
     "static/media/pexels-life-of-pix-7919.jpg": "/SK-Edwards-Portfolio/static/media/pexels-life-of-pix-7919.72e70f7a9029d5b010a0.jpg",
     "static/media/pexels-henry-&-co-1939485.jpg": "/SK-Edwards-Portfolio/static/media/pexels-henry-&-co-1939485.c3f3ca1bffbf0204d7cd.jpg",
@@ -13,11 +13,11 @@
     "static/media/logo.svg": "/SK-Edwards-Portfolio/static/media/logo.40717ad041ce80b083153d256cdb09a6.svg",
     "static/media/miniLogo.svg": "/SK-Edwards-Portfolio/static/media/miniLogo.c3eecc816357f3519466f5bcdfc0dfcc.svg",
     "main.bda2a275.css.map": "/SK-Edwards-Portfolio/static/css/main.bda2a275.css.map",
-    "main.9951ba87.js.map": "/SK-Edwards-Portfolio/static/js/main.9951ba87.js.map",
+    "main.261229cf.js.map": "/SK-Edwards-Portfolio/static/js/main.261229cf.js.map",
     "787.f5ec70aa.chunk.js.map": "/SK-Edwards-Portfolio/static/js/787.f5ec70aa.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.bda2a275.css",
-    "static/js/main.9951ba87.js"
+    "static/js/main.261229cf.js"
   ]
 }
