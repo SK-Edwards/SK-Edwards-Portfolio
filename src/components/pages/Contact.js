@@ -2,6 +2,10 @@ import React from 'react';
 import '../../styles/contact.css'
 
 export default function Contact() {
+
+
+
+  
   return (
     <div id="contactForm">
       <h4> Contact Form :</h4>

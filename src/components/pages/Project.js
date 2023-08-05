@@ -50,7 +50,7 @@ Finally, if you're interested in leaving a comment or like/dislike, after you've
       <div className="card-block">
         <p className="card-text">The application allows the user to create and customize an Alpaca image. The user is also able to download the image to use as an avatar if they so choose.</p>
          <a href="https://github.com/SK-Edwards/Alpaca-SKE" > GitHub Repo </a>
-        
+         <a href="https://sk-edwards.github.io/Alpaca-SKE/" > Live Website </a>
       </div>
       </div>
       </article>
