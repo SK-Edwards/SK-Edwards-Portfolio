@@ -1,21 +1,23 @@
 {
   "files": {
-    "main.css": "/SK-Edwards-Portfolio/static/css/main.aa8b28e0.css",
-    "main.js": "/SK-Edwards-Portfolio/static/js/main.9b0496a5.js",
+    "main.css": "/SK-Edwards-Portfolio/static/css/main.bda2a275.css",
+    "main.js": "/SK-Edwards-Portfolio/static/js/main.9951ba87.js",
     "static/js/787.f5ec70aa.chunk.js": "/SK-Edwards-Portfolio/static/js/787.f5ec70aa.chunk.js",
+    "static/media/pexels-life-of-pix-7919.jpg": "/SK-Edwards-Portfolio/static/media/pexels-life-of-pix-7919.72e70f7a9029d5b010a0.jpg",
+    "static/media/pexels-henry-&-co-1939485.jpg": "/SK-Edwards-Portfolio/static/media/pexels-henry-&-co-1939485.c3f3ca1bffbf0204d7cd.jpg",
     "static/media/Screenshot 2023-06-11 143424.png": "/SK-Edwards-Portfolio/static/media/Screenshot 2023-06-11 143424.f00019b84873980eb95a.png",
     "static/media/Screenshot 2023-06-10 222908.png": "/SK-Edwards-Portfolio/static/media/Screenshot 2023-06-10 222908.156c76eff5b375dd1b49.png",
     "static/media/Screenshot 2023-06-10 222346.png": "/SK-Edwards-Portfolio/static/media/Screenshot 2023-06-10 222346.2b17589b7192f99a2c54.png",
-    "static/media/Screenshot 2023-06-10 225131.png": "/SK-Edwards-Portfolio/static/media/Screenshot 2023-06-10 225131.fc038d80079ace83dc1b.png",
+    "static/media/Screenshot 2023-08-05 140942.png": "/SK-Edwards-Portfolio/static/media/Screenshot 2023-08-05 140942.46e0ada90063a7b17070.png",
     "index.html": "/SK-Edwards-Portfolio/index.html",
     "static/media/logo.svg": "/SK-Edwards-Portfolio/static/media/logo.40717ad041ce80b083153d256cdb09a6.svg",
     "static/media/miniLogo.svg": "/SK-Edwards-Portfolio/static/media/miniLogo.c3eecc816357f3519466f5bcdfc0dfcc.svg",
-    "main.aa8b28e0.css.map": "/SK-Edwards-Portfolio/static/css/main.aa8b28e0.css.map",
-    "main.9b0496a5.js.map": "/SK-Edwards-Portfolio/static/js/main.9b0496a5.js.map",
+    "main.bda2a275.css.map": "/SK-Edwards-Portfolio/static/css/main.bda2a275.css.map",
+    "main.9951ba87.js.map": "/SK-Edwards-Portfolio/static/js/main.9951ba87.js.map",
     "787.f5ec70aa.chunk.js.map": "/SK-Edwards-Portfolio/static/js/787.f5ec70aa.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.aa8b28e0.css",
-    "static/js/main.9b0496a5.js"
+    "static/css/main.bda2a275.css",
+    "static/js/main.9951ba87.js"
   ]
 }

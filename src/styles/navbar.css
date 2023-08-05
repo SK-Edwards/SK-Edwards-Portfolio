@@ -2,7 +2,8 @@
     background-color:#FF8300;
    display: inline;
     justify-content: space-between;
-    border: brown solid 3px;
+    
+    
  
 
 }
@@ -10,10 +11,16 @@
 .navigation {
     display:flex;
     justify-content: space-between;
-
+    border: brown solid 3px;
   
 }
 
-.nav-item{
-    color:antiquewhite;
+.nav-item .nav-link{
+    color:rgb(246, 126, 5);
+    border: rgb(255, 135, 6) solid 3px;
+    border-radius: 15px;
+    
+}
+.nav-item {
+    color:rgb(255, 135, 6);
 }

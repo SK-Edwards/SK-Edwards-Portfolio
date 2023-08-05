@@ -2,7 +2,7 @@ import React from 'react';
 import '../../styles/project.css';
 import project1 from '../../utils/Screenshot 2023-06-10 222346.png';
 import project2 from '../../utils/Screenshot 2023-06-10 222908.png'
-import project3 from '../../utils/Screenshot 2023-06-10 225131.png'
+import project3 from '../../utils/Screenshot 2023-08-05 140942.png'
 
 
   function Project() {
@@ -44,13 +44,13 @@ Finally, if you're interested in leaving a comment or like/dislike, after you've
       <div className="projectCard">
       <div className="card-block">
         <h4 className="card-title"> Project #3 </h4>
-        <h6 className="card-subtitle text-muted">A note taking application.</h6>
+        <h6 className="card-subtitle text-muted">An Alpaca Image Generaor.</h6>
       </div>
       <img src={project3} alt=""/>
       <div className="card-block">
-        <p className="card-text">The application allows the user to add a title and body to a note, save it and access it at a later date. The saved messages populate the sidebar.</p>
-         <a href="https://github.com/SK-Edwards/Note-Taker-Application" > GitHub Repo </a>
-        <a href="https://note-take-ske.herokuapp.com/" > Live Website </a>
+        <p className="card-text">The application allows the user to create and customize an Alpaca image. The user is also able to download the image to use as an avatar if they so choose.</p>
+         <a href="https://github.com/SK-Edwards/Alpaca-SKE" > GitHub Repo </a>
+        
       </div>
       </div>
       </article>
